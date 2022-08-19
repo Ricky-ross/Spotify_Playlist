@@ -7,8 +7,8 @@ from spotipy.oauth2 import SpotifyOAuth
 from selenium.webdriver.common.by import By
 from selenium import webdriver
 
-CLIENT_ID = "71419576af6343968749efaf5f88bd22"
-CLIENT_SECRET = "98ef2f1a863940619dc161e311d514a5"
+CLIENT_ID = ""
+CLIENT_SECRET = ""
 
 #-------------------------------------------------------------------------------------------------------------------------------------------------
 def songs_extractor(url):
